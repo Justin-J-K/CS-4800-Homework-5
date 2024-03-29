@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38108df2-9269-48a6-845b-3258edff3c9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/OrderDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/food/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/food/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/food/Fries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/food/HotDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/order/FoodOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/order/LoyaltyDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/AvocadoTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/CheeseTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/KetchupTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/LettuceTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/MayoTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/MustardTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/OnionTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/PicklesTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/TomatoTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/toppings/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DiscountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ToppingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eHTPnRjvW96qzEv8gGJQNYOnoT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.OrderDriver.executor": "Run",
+    "JUnit.All in CS_4800_HW5.executor": "Coverage",
+    "JUnit.FoodTest.executor": "Run",
+    "JUnit.OrderTest.executor": "Run",
+    "JUnit.ToppingTest.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="decorator.order" />
+      <recent name="decorator.toppings" />
+      <recent name="decorator.food" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrderDriver">
+    <configuration name="OrderDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.OrderDriver" />
+      <module name="CS_4800_HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CS_4800_HW5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoodTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToppingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToppingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderDriver" />
+        <item itemvalue="JUnit.All in CS_4800_HW5" />
+        <item itemvalue="JUnit.ToppingTest" />
+        <item itemvalue="JUnit.OrderTest" />
+        <item itemvalue="JUnit.FoodTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38108df2-9269-48a6-845b-3258edff3c9d" name="Changes" comment="" />
+      <created>1711560484342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711560484342</updated>
+      <workItem from="1711560485381" duration="1352000" />
+      <workItem from="1711732579411" duration="79000" />
+      <workItem from="1711732663286" duration="28000" />
+      <workItem from="1711732694555" duration="210000" />
+      <workItem from="1711732906230" duration="223000" />
+      <workItem from="1711733130058" duration="11000" />
+      <workItem from="1711733145189" duration="1173000" />
+      <workItem from="1711742698665" duration="5612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS_4800_HW5$OrderTest.ic" NAME="OrderTest Coverage Results" MODIFIED="1711747297549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CS_4800_HW5$ToppingTest.ic" NAME="ToppingTest Coverage Results" MODIFIED="1711747472111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CS_4800_HW5$All_in_CS_4800_HW5.ic" NAME="All in CS_4800_HW5 Coverage Results" MODIFIED="1711748077686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
